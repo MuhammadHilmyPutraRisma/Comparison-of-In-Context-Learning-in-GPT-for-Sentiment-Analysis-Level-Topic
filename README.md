@@ -9,7 +9,7 @@ Python code to perform In-Context Learning comparison on GPT for topic level sen
 - Comparison of In-Context Learning on GPT
 - Representation data with BERT
 - Data clustering with EFCM
-- Extraction of top words with c-TFIDF and Interpretation with GPT
+- Extraction of top words with c-TFIDF and Topic Interpretation with GPT
 
 ## Prerequisites
 
